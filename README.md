@@ -1,6 +1,6 @@
 # :calendar: :white_check_mark: Daily Tasks App
 
-This is a daily-task list application.  
+This is a daily-task list application.
 
 **Server: Golang  
 Client: React, semantic-ui-react  
@@ -35,8 +35,10 @@ From the Application directory
 
 Open application at http://localhost:3000
 
+#### :books: For begginers getting started with GoLang via examples: go-tutorial directory
+
 # References
 
 https://godoc.org/go.mongodb.org/mongo-driver/mongo  
 https://www.mongodb.com/blog/post/mongodb-go-driver-tutorial  
-https://vkt.sh/go-mongodb-driver-cookbook/    
+https://vkt.sh/go-mongodb-driver-cookbook/
